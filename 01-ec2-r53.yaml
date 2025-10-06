@@ -3,7 +3,7 @@
   connection: local
   vars:
     ami_id: "ami-09c813fb71547fc4f"
-    sg_id: "AKIA2Z7TDNQXX7VNSDXS" # replace with your SG ID
+    sg_id: "sg-0f4e8f9f4317df003" # replace with your SG ID
     zone_id: "Z10407763GGQ6NFK3DU2A" # replace with your ID
     domain_name: "techevolv.fun"
     instances: 
