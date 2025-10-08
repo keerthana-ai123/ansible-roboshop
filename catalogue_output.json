@@ -1,0 +1,22 @@
+ {
+        "changed": true,
+        "cmd": [
+            "mongosh",
+            "172.31.47.38",
+            "--quiet",
+            "--eval",
+            "db.getMongo().getDBNames().indexOf('catalogue')"
+        ],
+        "delta": "0:00:01.079247",
+        "end": "2025-10-07 11:19:54.597263",
+        "failed": false,
+        "msg": "",
+        "rc": 0,
+        "start": "2025-10-07 11:19:53.518016",
+        "stderr": "",
+        "stderr_lines": [],
+        "stdout": "-1",
+        "stdout_lines": [
+            "-1"
+        ]
+    }
